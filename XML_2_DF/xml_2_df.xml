@@ -1,0 +1,80 @@
+<Root>
+  <Results_from_Database_Query_ODBC>
+    <ID>1063742</ID>
+    <AGENT_NUM>24666382</AGENT_NUM>
+    <PRACTICE_NAME>C Pope &amp; Associates Pty Ltd</PRACTICE_NAME>
+    <CITY_DISPLAY>Midland</CITY_DISPLAY>
+    <STATE_DISPLAY>WA</STATE_DISPLAY>
+    <CONDITION_CODE />
+    <APPEAL>0</APPEAL>
+    <CATEGORY>TAB</CATEGORY>
+    <CXL_REASON />
+    <BOARD_DECISION />
+    <REASON />
+    <STATUS>Registered</STATUS>
+    <STAY>0</STAY>
+    <COMPANY_SORT>C POPE &amp; ASSOCIATES PTY LTD</COMPANY_SORT>
+    <LAST_FIRST />
+    <TERMINATION>None on record</TERMINATION>
+    <ASSOCIATIONS>None on record</ASSOCIATIONS>
+    <CONDITIONS />
+    <DISQUALIFICATION>None on record</DISQUALIFICATION>
+    <REG_DATE>21/08/2013</REG_DATE>
+    <REG_EXPIRY>01/09/2022</REG_EXPIRY>
+    <REG_STATUS>Registered</REG_STATUS>
+    <SANCTION>None on record</SANCTION>
+    <SUSPENSION>None on record</SUSPENSION>
+    <REG_NAME>C Pope &amp; Associates Pty Ltd</REG_NAME>
+    <REG_TYPE>Company Tax Agent</REG_TYPE>
+    <BUS_ADDRESS>5 Marion Street&lt;br /&gt;Midland, WA  6056</BUS_ADDRESS>
+    <ADDRESS_2 />
+    <ADDRESS_3 />
+    <CITY>Midland</CITY>
+    <COMPANY>C Pope &amp; Associates Pty Ltd</COMPANY>
+    <FULL_NAME />
+    <ZIP>6056</ZIP>
+    <STATE_PROVINCE>WA</STATE_PROVINCE>
+    <ADDRESS_1>5 Marion Street</ADDRESS_1>
+    <REG_TYPE_SIMPLE>Tax</REG_TYPE_SIMPLE>
+    <TERMINATED_REG>0</TERMINATED_REG>
+  </Results_from_Database_Query_ODBC>
+  <Results_from_Database_Query_ODBC>
+    <ID>973572</ID>
+    <AGENT_NUM>97218004</AGENT_NUM>
+    <PRACTICE_NAME>Jane Zymaris</PRACTICE_NAME>
+    <CITY_DISPLAY>Murrumbeena</CITY_DISPLAY>
+    <STATE_DISPLAY>VIC</STATE_DISPLAY>
+    <CONDITION_CODE />
+    <APPEAL>0</APPEAL>
+    <CATEGORY>BASB</CATEGORY>
+    <CXL_REASON />
+    <BOARD_DECISION />
+    <REASON />
+    <STATUS>Registered</STATUS>
+    <STAY>0</STAY>
+    <COMPANY_SORT />
+    <LAST_FIRST>ZYMARIS, JANE</LAST_FIRST>
+    <TERMINATION>None on record</TERMINATION>
+    <ASSOCIATIONS>Australian Bookkeepers Association *</ASSOCIATIONS>
+    <CONDITIONS />
+    <DISQUALIFICATION>None on record</DISQUALIFICATION>
+    <REG_DATE>01/03/2010</REG_DATE>
+    <REG_EXPIRY>01/03/2021</REG_EXPIRY>
+    <REG_STATUS>Registered</REG_STATUS>
+    <SANCTION>None on record</SANCTION>
+    <SUSPENSION>None on record</SUSPENSION>
+    <REG_NAME>Mrs Jane Zymaris</REG_NAME>
+    <REG_TYPE>Individual BAS Agent</REG_TYPE>
+    <BUS_ADDRESS>55 Kinlock Ave&lt;br /&gt;Murrumbeena, VIC  3163</BUS_ADDRESS>
+    <ADDRESS_2 />
+    <ADDRESS_3 />
+    <CITY>Murrumbeena</CITY>
+    <COMPANY />
+    <FULL_NAME>Mrs Jane Zymaris</FULL_NAME>
+    <ZIP>3163</ZIP>
+    <STATE_PROVINCE>VIC</STATE_PROVINCE>
+    <ADDRESS_1>55 Kinlock Ave</ADDRESS_1>
+    <REG_TYPE_SIMPLE>BAS</REG_TYPE_SIMPLE>
+    <TERMINATED_REG>0</TERMINATED_REG>
+  </Results_from_Database_Query_ODBC>
+  </Root>
