@@ -5,3 +5,5 @@ This repo hosts the mini projects I've worked on.
   - Libraries - xml, pandas.<br>
 - PDF_Reader.py - Extracts text and images from a PDF file.
   - Libraries - PyPDF2, pillow.<br>
+- Data_Analysis.ipynb - Data manipulation.
+  - Libraries - Pandas, NumPy.<br>
