@@ -7,3 +7,5 @@ This repo hosts the mini projects I've worked on.
   - Libraries - PyPDF2, pillow.<br>
 - Data_Analysis.ipynb - Data manipulation.
   - Libraries - Pandas, NumPy.<br>
+- Alphabets.py - Turtle graphics.
+  - Libraries - Turtle.<br>
